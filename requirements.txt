@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+chromadb
+pypdf
+python-dotenv
+docx2txt
+ollama
+requests
+sentence-transformers
+pillow
+gdown
+pyperclip
+pytesseract
+pdf2image
